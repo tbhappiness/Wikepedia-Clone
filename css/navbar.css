@@ -1,0 +1,78 @@
+
+#nlogo{
+    background-image: url('https://i.ibb.co/y8snqRk/Screenshot-2024-01-21-094747.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 200px;
+    height: 45px;
+    
+}
+.navbar{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    height: 65px;
+    align-items: center;
+    column-gap: 195px;
+}
+#hammenu{
+    background-image: url('https://cdn4.iconfinder.com/data/icons/navigation-40/24/hamburger-menu-512.png');
+    height: 35px;
+    width: 25px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: 0% 50%;
+    
+}
+#search input{
+    height: 31px;
+    width: 400px;
+    border: 1px solid gray;
+}
+
+#search{
+    width: 475.7px;
+    height: 30px;
+}
+
+#search button{
+    height: 32px;
+    width: 70px;
+    position: relative;
+    right: 5px;
+    bottom: 1px;
+}
+
+.leftbar{
+    display: flex;
+    width: 750px;
+    height: 60px;
+    column-gap: 15px;
+    align-items: center;
+    /* flex-wrap: nowrap; */
+}
+.rightbar{
+    display: flex;
+    width: 300px;
+    height: 60px;
+    column-gap: 7px;
+    align-items: center;
+    justify-content: end;
+}
+#rmenu{
+    background-image: url('https://icon-library.com/images/android-3-dot-menu-icon/android-3-dot-menu-icon-26.jpg');
+    height: 37px;
+    width: 30px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.rb:visited{
+    color: #0000FF;
+    text-decoration: none;
+}
+.rb:hover{
+    cursor: pointer;
+}
+.rb:link{
+    color: black;
+}

@@ -1,0 +1,185 @@
+#image18flexbox{
+    display: flex;
+    flex-wrap: wrap;
+    width: 72%;
+    gap: 15px 10px;
+    font-size: 14px;
+    line-height: 1.57;
+}
+#image18{
+    width: 220px;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 8px;
+    align-items: center;
+    
+}
+#image19{
+    width: 220px;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 8px;
+    align-items: center;
+    
+}
+#image20{
+    width: 220px;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 8px;
+    align-items: center;
+    
+}
+#image21{
+    width: 220px;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 8px;
+    align-items: center;
+    
+}
+#image22{
+    width: 220px;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 8px;
+    align-items: center;
+    
+}
+#image23{
+    width: 220px;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 8px;
+    align-items: center;
+    
+}
+#image24{
+    width: 220px;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 8px;
+    align-items: center;
+    
+    
+}
+#image25{
+    width: 220px;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 8px;
+    align-items: center;
+    
+    
+}
+#image18i{
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Caucasian_albanian_stone_azerbaijan_mingechaur2.jpg/300px-Caucasian_albanian_stone_azerbaijan_mingechaur2.jpg');
+    height: 200px;
+    width: 200px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position:center;
+    padding: 10px;
+    border: 1px solid #C8CCD1;
+    background-origin: content-box;
+    
+    
+    
+}
+#image19i{
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Kesi_roundel_with_five-clawed_dragon_design.jpg/300px-Kesi_roundel_with_five-clawed_dragon_design.jpg');
+    height: 200px;
+    width: 200px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position:center;
+    padding: 10px;
+    border: 1px solid #C8CCD1;
+    background-origin: content-box;
+  
+}
+#image20i{
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Abramishvili1.JPG/300px-Abramishvili1.JPG');
+    height: 200px;
+    width: 200px;
+    background-repeat: no-repeat;
+    background-size: contain; 
+    background-position:center;
+    padding: 10px;
+    border: 1px solid #C8CCD1;
+    background-origin: content-box;
+    
+}
+#image21i{
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/The_Annunciation%2C_with_Saint_Emidius_-_Carlo_Crivelli_-_National_Gallery.jpg/213px-The_Annunciation%2C_with_Saint_Emidius_-_Carlo_Crivelli_-_National_Gallery.jpg');
+    height: 200px;
+    width: 200px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position:center;
+    padding: 10px;
+    border: 1px solid #C8CCD1;
+    background-origin: content-box;
+    
+}
+#image22i{
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/PeacockInTheWoods.jpg/240px-PeacockInTheWoods.jpg');
+    height: 200px;
+    width: 200px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position:center;
+    padding: 10px;
+    border: 1px solid #C8CCD1;
+    background-origin: content-box;
+    
+}
+
+#image23i{
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Pavo_Cristafus-_Common_Pea_Fowl._64.98.209.jpg/225px-Pavo_Cristafus-_Common_Pea_Fowl._64.98.209.jpg');
+    height: 200px;
+    width: 200px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position:center;
+    padding: 10px;
+    border: 1px solid #C8CCD1;
+    background-origin: content-box;
+    
+    
+}
+#image24i{
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Bowl_with_Peacock_Motif%2C_ca._1200%E2%80%931230%2C_78.81.jpg/242px-Bowl_with_Peacock_Motif%2C_ca._1200%E2%80%931230%2C_78.81.jpg');
+    height: 200px;
+    width: 200px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position:center;
+    padding: 10px;
+    border: 1px solid #C8CCD1;
+    background-origin: content-box;
+    
+}
+#image25i{
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Golingeswara_temple_complex_Biccavole_02.jpg/300px-Golingeswara_temple_complex_Biccavole_02.jpg');
+    height: 200px;
+    width: 200px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position:center;
+    padding: 10px;
+    border: 1px solid #C8CCD1;
+    background-origin: content-box;
+    
+}
+.imaget{
+    width: 200px;
+}

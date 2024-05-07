@@ -1,0 +1,20 @@
+.maingrid{
+    display: flex;
+    width: 100%;
+    margin-top: 40px;
+
+}
+#content{
+    height: 100%;
+    width: 17%;
+    margin-top: 40px;
+    position: sticky;
+    margin-right: 18px;
+    top: 50px;
+}
+#alltext{
+    width: 75%;
+    height: 100%;  
+    margin-right: 200px;
+    margin-left: 18px;
+}

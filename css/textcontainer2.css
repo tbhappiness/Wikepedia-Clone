@@ -1,0 +1,27 @@
+#image12{
+    background-image: url('https://i.ibb.co/3sr1TdQ/image.png');
+    background-repeat: no-repeat;
+    width: 180px;
+    height: 260px;
+    background-size: contain;  
+    margin-top: 20px;
+}
+#image13{
+    background-image: url('https://i.ibb.co/hB79R51/image.png');
+    background-repeat: no-repeat;
+    width: 210px;
+    height: 85px;
+    background-size: contain;  
+    margin-top: 20px;
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 15px;
+}
+#image14{
+    background-image: url('https://i.ibb.co/wr8qsrm/image.png');
+    background-repeat: no-repeat;
+    width: 290px;
+    height: 85px;
+    background-size: contain;  
+    float: right;
+}

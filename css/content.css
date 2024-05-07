@@ -1,0 +1,43 @@
+.contentlinks:link{
+    display: block;
+    color: #0000FF;
+    text-decoration: none;
+}
+.contentlinks:visited{
+    display: block;
+    color: #0000FF;
+    text-decoration: none;
+}
+.contentlinks:hover{
+    color: #0000FF;
+    text-decoration: underline;
+}
+#top{
+    line-height: 30px;
+    margin-top: 10px;
+}
+.textub{
+    font-weight: bold;
+    border-bottom: 1px solid #EAECF0;
+}
+#contenttext{
+    padding-bottom: 10px;
+}
+#hidebutton{
+    font-size: 11px;
+    padding: 2px 5px;
+    border: none;
+}
+#hidebutton:hover{
+    background-color: white;
+    cursor: pointer;
+    border: none;
+}
+.ttools{
+    border: none;
+}
+#languages{
+    margin-bottom: 0;
+    padding-bottom: 0;;
+}
+

@@ -1,0 +1,10 @@
+#image16{
+    background-image: url('https://i.ibb.co/6vgx942/image.png');
+    background-size: contain;
+    width: 250px;
+    height: 350px;
+    background-repeat: no-repeat;
+    float: right;
+    margin-left: 10px;
+    margin-bottom: 15px;
+}

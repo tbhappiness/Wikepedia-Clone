@@ -1,0 +1,114 @@
+#textcontainer1left{
+    width: 74%;
+}
+#textcontainer1right{
+    display: flex;
+    flex-direction: column;
+    width: 24%;
+    float: right;
+    align-items: center;
+    row-gap: 15px;
+}
+p{
+    margin: 15px 0px;
+    line-height: 1.57;
+    font-size: 14px;
+}
+#image1{
+    background-image: url('https://i.ibb.co/VVdtN1Q/image1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 690px;
+    background-size: contain;
+    border: 1px solid black;
+    background-position: 0px -2px;
+    
+    
+}
+#image2{
+    background-image: url('https://i.ibb.co/0XKPKSc/image2.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 160px;
+    background-size: contain;
+    background-position: 12px 0px;
+    
+}
+#image3{
+    background-image: url('https://i.ibb.co/HNdKcdJ/45.png');
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 280px;
+    background-size: contain;
+    background-position: 10px 0px;
+}
+#image4{
+    background-image: url('https://i.ibb.co/pznMPXG/46.png');
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 290px;
+    background-size: contain;
+    
+}
+#image5{
+    background-image: url('https://i.ibb.co/pL6mdyW/image5.png');
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 180px;
+    background-size: contain;
+    
+}
+#image6{
+    background-image: url('https://i.ibb.co/Yp4CYhF/image6.png');
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 150px;
+    background-size: contain;
+    background-position: 15px;
+    
+}
+#image7{
+    background-image: url('https://i.ibb.co/CBptP5Q/image7.png');
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 200px;
+    background-size: contain;  
+    background-position: 10px;  
+}
+#image8{
+    background-image: url('https://i.ibb.co/jWPpm6Y/8.png');
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 210px;
+    background-size: contain;  
+    
+}
+#image9{
+    background-image: url('https://i.ibb.co/hHp7hxk/11.png');
+    background-repeat: no-repeat;
+    width: 232px;
+    height: 232px;
+    background-size: contain;    
+}
+#image10{
+    background-image: url('https://i.ibb.co/QF9f46D/image9.png');
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 350px;
+    background-size: contain;  
+}
+#image11{
+    background-image: url('https://i.ibb.co/2gZykVW/image10.png');
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 190px;
+    background-size: contain;  
+}
+.clearfix{
+    clear: both;
+}
+p{
+    font-family: sans-serif;
+}
